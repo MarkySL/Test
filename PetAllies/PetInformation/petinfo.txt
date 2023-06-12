@@ -1,0 +1,12 @@
+const firebaseConfig = {
+    apiKey: "AIzaSyAdDp5KvN-RImyKKLOm2HG7-D5ynBfPCeA",
+    authDomain: "push-notification-3c9d1.firebaseapp.com",
+    databaseURL: "https://push-notification-3c9d1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "push-notification-3c9d1",
+    storageBucket: "push-notification-3c9d1.appspot.com",
+    messagingSenderId: "490055569928",
+    appId: "1:490055569928:web:0cad1bbfe3596b5e27f7bd",
+    measurementId: "G-T4ZBLXD59E"
+  };
+
+  firebase.initializeApp(firebaseConfig);

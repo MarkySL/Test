@@ -1,0 +1,18 @@
+/*Style for User Creation*/
+
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
